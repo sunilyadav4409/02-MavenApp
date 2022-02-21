@@ -1,9 +1,10 @@
 package in.ashokit;
 
 public class Test {
-	public void decode()
+	public void decode(String str)
 	{
-		//logic for decode
+		int a=90;
+                int b=98;
 	}
 	public void encode()
 	{
