@@ -11,6 +11,8 @@ public class Test {
 	public void encode()
 	{
 		String s="sunil";
+		String s="nani";
+		
 	}
 
 }
